@@ -30,7 +30,6 @@ Copy `<mods>` folder to the `<game root>` directory (exp. `C:\Users\User\AppData
 | carryon                            | 1.15.3.13          | Both          |
 | catalogue                          | 1.5.0              | Both          |
 | cc tweaked                         | 1.100.1            | Both          |
-| cfm                                | 7.0.0pre22         | Both          |
 | charginggadgets                    | 1.3.0              | Both          |
 | chiselsandbits                     | 1.0.63             | Both          |
 | chocolate                          | 1.3.0              | Both          |
