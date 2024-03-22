@@ -35,7 +35,7 @@ Based on [FTB Direwolf20](https://www.feed-the-beast.com/modpacks/79-ftb-present
 # **Additions**
 **Mods** | **Version** | **Server or Client Install** |
 |-------------------------------------|--------------------|---------------|
-| [Oh The Biomes You'll Go](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go) | v1.3.6 | Both |
+| [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)| v13.1.0.488-u | Both |
 | [Simple Planes](https://www.curseforge.com/minecraft/mc-mods/simple-planes) | v4.6.0 | Both |
 | [Draconic Evolution](https://www.curseforge.com/minecraft/mc-mods/draconic-evolution) | 3.0.29.518-u | Both |
 | [Falling Tree](https://www.curseforge.com/minecraft/mc-mods/falling-tree) | v2.11.7 | Both |
