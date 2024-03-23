@@ -3,7 +3,11 @@
 
   
 
+  
+
 # AM2-MC Server Modpack
+
+  
 
   
 
@@ -19,7 +23,11 @@ For game version 1.16.5 and Forge version 36.2.42
 
   
 
+  
+
 ## Mod installation
+
+  
 
   
 
@@ -35,7 +43,11 @@ Copy `<mods>` folder to the `<game root>` directory (exp. `C:\Users\User\AppData
 
   
 
+  
+
 # Mods
+
+  
 
   
 
@@ -45,7 +57,11 @@ Based on [FTB Direwolf20](https://www.feed-the-beast.com/modpacks/79-ftb-present
 
   
 
+  
+
 # **Additions**
+
+  
 
 **Mods** | **Version** | **Server or Client Install** |
 |-------------------------------------|--------------------|---------------|
@@ -63,19 +79,18 @@ Based on [FTB Direwolf20](https://www.feed-the-beast.com/modpacks/79-ftb-present
 | [Trash Slot](https://www.curseforge.com/minecraft/mc-mods/trashslot)| v12.2.1 | Both |
 | [Dungeons Arise](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise)| v2.1.49-b | Both |
 | [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on)| v1.15.6.24 | Both |
+| [CosmeticArmorReworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked)| v5a | Both |
+| [Macaw's Fences](https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls)| v1.1.1 | Both |
+| [Macaw's Furniture](https://www.curseforge.com/minecraft/mc-mods/macaws-furniture)| v3.2.2 | Both |
+| [Macaw's Holidays](https://www.curseforge.com/minecraft/mc-mods/macaws-holidays)| v1.1.0 | Both |
+| [Macaw's Lights](https://www.curseforge.com/minecraft/mc-mods/macaws-lights-and-lamps)| v1.0.6 | Both |
+| [Macaw's Paintings](https://www.curseforge.com/minecraft/mc-mods/macaws-paintings)| v1.0.5 | Both |
+| [Macaw's Paths](https://www.curseforge.com/minecraft/mc-mods/macaws-paths-and-pavings)| v1.0.4 | Both |
+
+
+
+  
 
   
 
 *Mods Marked with * Are Replacements to Existing Mods in the Base Pack*
-
-  
-
-  
-
-  
-
-  
-  
-
-  
-
