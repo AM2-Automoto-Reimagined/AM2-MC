@@ -47,6 +47,8 @@ Based on [FTB Direwolf20](https://www.feed-the-beast.com/modpacks/79-ftb-present
 | [Vanilla Hammers](https://www.curseforge.com/minecraft/mc-mods/vanilla-hammers-forge)| v2.2.0 | Both |
 | [Tool Belt](https://www.curseforge.com/minecraft/mc-mods/tool-belt)| v1.16.5 | Both |
 | [Trash Slot](https://www.curseforge.com/minecraft/mc-mods/trashslot)| v12.2.1 | Both |
+| [Dungeons Arise](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise)| v2.1.49-b | Both |
+| [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on)| v1.15.6.24 | Both |
 
   *Mods Marked with * Are Replacements to Existing Mods in the Base Pack*
 
