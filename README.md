@@ -63,6 +63,10 @@ Based on [FTB Direwolf20](https://www.feed-the-beast.com/modpacks/79-ftb-present
 | [Trash Slot](https://www.curseforge.com/minecraft/mc-mods/trashslot)| v12.2.1 | Both |
 | [Dungeons Arise](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise)| v2.1.49-b | Both |
 | [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on)| v1.15.6.24 | Both |
+| [CosmeticArmorReworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked)| v5a | Both |
+| [Macaw's Furniture](https://www.curseforge.com/minecraft/mc-mods/macaws-furniture)| v3.2.2 | Both |
+| [Macaw's Lights](https://www.curseforge.com/minecraft/mc-mods/macaws-lights-and-lamps)| v1.0.6 | Both |
+| [Macaw's Paths](https://www.curseforge.com/minecraft/mc-mods/macaws-paths-and-pavings)| v1.0.4 | Both |
 
   
 
