@@ -88,6 +88,7 @@ Based on [FTB Direwolf20](https://www.feed-the-beast.com/modpacks/79-ftb-present
 | [XP Tome](https://www.curseforge.com/minecraft/mc-mods/xp-tome)| v2.1.5 | Both |
 | [Uppers](https://www.curseforge.com/minecraft/mc-mods/uppers)| v0.3.2 | Both |
 | [Easy Villagers](https://www.curseforge.com/minecraft/mc-mods/easy-villagers)| v1.0.13 | Both |
+| [Speedy Hoppers](https://www.curseforge.com/minecraft/mc-mods/speedy-hoppers)| v1.16.4-1 | Both |
 
 
   
