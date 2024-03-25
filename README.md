@@ -85,7 +85,7 @@ Based on [FTB Direwolf20](https://www.feed-the-beast.com/modpacks/79-ftb-present
 | [Macaw's Paths](https://www.curseforge.com/minecraft/mc-mods/macaws-paths-and-pavings)| v1.0.4 | Both |
 | [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)| v6.0.0.28 | Both |
 | [TinyMobFarm](https://www.curseforge.com/minecraft/mc-mods/tiny-mob-farm)| v1.1.2 | Both |
-| [XP Toe](https://www.curseforge.com/minecraft/mc-mods/xp-tome)| v2.1.5 | Both |
+| [XP Tome](https://www.curseforge.com/minecraft/mc-mods/xp-tome)| v2.1.5 | Both |
 | [Uppers](https://www.curseforge.com/minecraft/mc-mods/uppers)| v0.3.2 | Both |
 | [Easy Villagers](https://www.curseforge.com/minecraft/mc-mods/easy-villagers)| v1.0.13 | Both |
 
