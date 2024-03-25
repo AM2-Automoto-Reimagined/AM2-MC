@@ -3,7 +3,11 @@
 
   
 
+  
+
 # AM2-MC Server Modpack
+
+  
 
   
 
@@ -19,7 +23,11 @@ For game version 1.16.5 and Forge version 36.2.42
 
   
 
+  
+
 ## Mod installation
+
+  
 
   
 
@@ -35,7 +43,11 @@ Copy `<mods>` folder to the `<game root>` directory (exp. `C:\Users\User\AppData
 
   
 
+  
+
 # Mods
+
+  
 
   
 
@@ -45,7 +57,11 @@ Based on [FTB Direwolf20](https://www.feed-the-beast.com/modpacks/79-ftb-present
 
   
 
+  
+
 # **Additions**
+
+  
 
 **Mods** | **Version** | **Server or Client Install** |
 |-------------------------------------|--------------------|---------------|
@@ -67,19 +83,15 @@ Based on [FTB Direwolf20](https://www.feed-the-beast.com/modpacks/79-ftb-present
 | [Macaw's Furniture](https://www.curseforge.com/minecraft/mc-mods/macaws-furniture)| v3.2.2 | Both |
 | [Macaw's Lights](https://www.curseforge.com/minecraft/mc-mods/macaws-lights-and-lamps)| v1.0.6 | Both |
 | [Macaw's Paths](https://www.curseforge.com/minecraft/mc-mods/macaws-paths-and-pavings)| v1.0.4 | Both |
+| [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)| v6.0.0.28 | Both |
+| [TinyMobFarm](https://www.curseforge.com/minecraft/mc-mods/tiny-mob-farm)| v1.1.2 | Both |
+| [XP Toe](https://www.curseforge.com/minecraft/mc-mods/xp-tome)| v2.1.5 | Both |
+| [Uppers](https://www.curseforge.com/minecraft/mc-mods/uppers)| v0.3.2 | Both |
+| [Easy Villagers](https://www.curseforge.com/minecraft/mc-mods/easy-villagers)| v1.0.13 | Both |
+
+
+  
 
   
 
 *Mods Marked with * Are Replacements to Existing Mods in the Base Pack*
-
-  
-
-  
-
-  
-
-  
-  
-
-  
-
