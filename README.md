@@ -89,6 +89,8 @@ Based on [FTB Direwolf20](https://www.feed-the-beast.com/modpacks/79-ftb-present
 | [Uppers](https://www.curseforge.com/minecraft/mc-mods/uppers)| v0.3.2 | Both |
 | [Easy Villagers](https://www.curseforge.com/minecraft/mc-mods/easy-villagers)| v1.0.13 | Both |
 | [Speedy Hoppers](https://www.curseforge.com/minecraft/mc-mods/speedy-hoppers)| v1.16.4-1 | Both |
+| [Chunk Pregenerator](https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator)| v.1.16.5-4.4.3 | Server Sided |
+ 
 
 
   
