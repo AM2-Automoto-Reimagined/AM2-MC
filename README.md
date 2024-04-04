@@ -91,6 +91,8 @@ Based on [FTB Direwolf20](https://www.feed-the-beast.com/modpacks/79-ftb-present
 | [Speedy Hoppers](https://www.curseforge.com/minecraft/mc-mods/speedy-hoppers)| v1.16.4-1 | Both |
 | [Chunk Pregenerator](https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator)| v.1.16.5-4.4.3 | Server |
 | [RS Infinity Booster](https://www.curseforge.com/minecraft/mc-mods/rsinfinitybooster)| v1.1+13 | Both |
+| [Simple VC](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)| v2.5.11 | Both |
+| [CraftPresence](https://www.curseforge.com/minecraft/mc-mods/craftpresence)| v2.3.5 | Client |
  
 
 
