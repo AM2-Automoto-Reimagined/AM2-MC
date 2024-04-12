@@ -35,7 +35,7 @@ For game version 1.16.5 and Forge version 36.2.42
 
   
 
-Copy `<mods>` folder to the `<game root>` directory (exp. `C:\Users\User\AppData\Roaming\.minecraft`)
+Copy `<mods>` & `<config>` folders to the `<game root>` directory (exp. `C:\Users\User\AppData\Roaming\.minecraft`)
 
   
 
